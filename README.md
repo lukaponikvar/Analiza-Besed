@@ -7,3 +7,4 @@ V okviru tega projekta se bomo ukvarjali z analizo besed.
 * Luka Ponikvar
 * Tilen Marc
 * Janez Novak
+* Sonja Hribar
